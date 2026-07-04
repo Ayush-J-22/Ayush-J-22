@@ -2,15 +2,20 @@
 
 ### B.Tech CSE (AI) Student | Java | Python | DSA | AI & Backend
 
-I'm a Computer Science student passionate about building scalable software and AI-powered applications.
+I'm a B.Tech Computer Science (AI) student currently focused on mastering Java, Data Structures & Algorithms, Backend Development, and Artificial Intelligence through consistent learning and real-world projects.
 
 Currently, I'm focused on mastering:
-- ☕ Java
-- 🧩 Data Structures & Algorithms
-- 🐍 Python
-- ⚙️ Backend Development
-- 🤖 Artificial Intelligence & Generative AI
+☕ Java Programming
 
+🧩 Data Structures & Algorithms
+
+⚙️ Backend Development
+
+🐍 Python for AI
+
+🤖 Artificial Intelligence
+
+✨ Generative AI
 ---
 
 ## 🎯 My Goals
