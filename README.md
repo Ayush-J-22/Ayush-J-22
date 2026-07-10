@@ -21,7 +21,7 @@ Currently, I'm focused on mastering:
 
 ## 🎯 My Goals
 
-- Crack top product-based companies
+- Build software that solves real problems.
 - Become an AI Software Engineer
 - Build real-world AI & Backend projects
 - Solve 400+ DSA problems
